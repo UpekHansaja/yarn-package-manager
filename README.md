@@ -163,13 +163,17 @@ yarn --version
 Following are the main commands you need to know to kick start with `yarn`.
 
 - Running `yarn` is enough to run an install! It's an alias for `yarn install`.
-</br>
+
+
 - Adding or updating a dependency to a single package is done with `yarn add`.
-</br>
+
+
 - Upgrading a dependency across the whole project is done with `yarn up`.
-</br>
+
+
 - Your scripts are aliased. Calling `yarn build` is the same as `yarn run build`.
-</br>
+
+
 - Most registry-related commands are moved behind `yarn npm` (ex: `yarn npm audit`).
 
 </br>
